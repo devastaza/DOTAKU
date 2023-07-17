@@ -45,6 +45,5 @@
 "Сложите цифры над этим текстом и умножьте их на день вашего рождения. Получится интересное число.\n\nНет? Ну, зато я Вас занял на какое-то время :)",
 "DOTAKU 0.0.1: Ты (не) подождёшь.",
 "У программы имеется лицензия открытого ПО. Любой желающий может просмотреть исходный код DOTAKU.",
-"System.NullReferenceException: Object reference not set to an instance of an object.
-Шутка :)"
+"System.NullReferenceException: Object reference not set to an instance of an object.\nШутка :)"
 ]}
