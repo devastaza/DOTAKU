@@ -43,7 +43,7 @@ DOTAKU is able to run even on very old devices *(20k points in Antutu Benchmark)
 
 Furthermore, here listed a few more reasons to switch to DOTAKU:
 - [x] Offline mode
-- [ ] Download titles
+- [x] Download titles
 - [ ] Auto-selection of favorite genres
 - [ ] Blacklist of titles and genres
 - [ ] Multilingual
